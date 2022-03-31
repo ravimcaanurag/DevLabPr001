@@ -9,7 +9,6 @@ S:\AzureLabTmp\DevLab002\DevLab002\bin\Debug\net5.0\ref\DevLab002.dll
 S:\AzureLabTmp\DevLab002\DevLab002\bin\Debug\net5.0\DevLab002.pdb
 S:\AzureLabTmp\DevLab002\DevLab002\bin\Debug\net5.0\DevLab002.Views.dll
 S:\AzureLabTmp\DevLab002\DevLab002\bin\Debug\net5.0\DevLab002.Views.pdb
-S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\DevLab002.csproj.AssemblyReference.cache
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\DevLab002.GeneratedMSBuildEditorConfig.editorconfig
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\DevLab002.AssemblyInfoInputs.cache
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\DevLab002.AssemblyInfo.cs
@@ -23,6 +22,7 @@ S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\scopedcss\bundle\DevLab002.s
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\DevLab002.TagHelpers.input.cache
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\DevLab002.TagHelpers.output.cache
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\DevLab002.RazorCoreGenerate.cache
+S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\Razor\Views\Fisrt\Index.cshtml.g.cs
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 S:\AzureLabTmp\DevLab002\DevLab002\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
